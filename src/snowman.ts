@@ -20,7 +20,7 @@ export class SnowMan extends NPC {
              },
              {
               faceUser: true,
-              reactDistance: 1,
+              reactDistance: 5,
               portrait: {
                 path: 'images/portraits/Snowman.png',
                 height: 220,
